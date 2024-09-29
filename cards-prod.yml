@@ -5,7 +5,7 @@ cards:
   message: "Welcome to MyBank accounts related local APIs "
   contactDetails:
     name: "Adithya KP - Developer"
-    email: "adithyakp@mybank.com"
+    email: "{cipher}e57fc2bc7bf9d798c251edc032f19dc90e557df382313918fcf0fe9514d7e537ca8e57a820cf21ccf6570817e5aa1cd4"
   onCallSupport:
     - (555) 555-1234
     - (555) 523-1345
