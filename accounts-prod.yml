@@ -4,7 +4,7 @@ build:
 accounts:
   message: "Welcome to MyBank accounts related production APIs "
   contactDetails:
-    name: "Kusuma - Product Owner"
+    name: "Kusuma Reddy - Product Owner"
     email: "kusuma@mybank.com"
   onCallSupport:
     - (453) 392-4829
