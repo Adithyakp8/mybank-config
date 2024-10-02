@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 cards:
-  message: "Welcome to MyBank accounts related local APIs "
+  message: "Welcome to MyBank accounts related prod APIs "
   contactDetails:
     name: "Adithya KP - Developer"
     email: "{cipher}e57fc2bc7bf9d798c251edc032f19dc90e557df382313918fcf0fe9514d7e537ca8e57a820cf21ccf6570817e5aa1cd4"
